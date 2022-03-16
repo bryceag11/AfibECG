@@ -1,5 +1,5 @@
 # AfibECG
-Signal Processing Project
+Signal Processing Project for detection of AFib in ECG data
 
 
 
